@@ -17,5 +17,8 @@ for i in list1:
 
 #for list 2
 for i in list2:
-    if i % 2 !=0:
+    if i % 2 ==0:
         result_list.append(i)
+
+#result
+print("Result list: ", result_list)
